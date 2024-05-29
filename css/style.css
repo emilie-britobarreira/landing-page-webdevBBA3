@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500&family=Lobster&family=Playball&family=Playfair+Display:wght@400;600&family=Roboto:wght@100;300&family=Whisper&display=swap");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Lato'; 
+	front-size: 22px;
+	margin: 0px;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1, h2, h3 {
+	font-family: 'DM Serif Display', serif;
+	font-size: 30px;
+	font-weight:  bold;
+}
+
+a {
+	text-decoration: none;
+}
+
